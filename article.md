@@ -1,4 +1,4 @@
-![Cover image](https://www.thesslstore.com/blog/post-quantum-cryptography-data-security-in-a-post-quantum-world/ align="center")
+![Cover image](https://www.thesslstore.com/blog/post-quantum-cryptography-data-security-in-a-post-quantum-world/)
 
 ## Quantum Computers Are Coming for Your Blockchain — Here's What Actually Works
 
