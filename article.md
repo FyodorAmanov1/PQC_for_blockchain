@@ -1,4 +1,4 @@
-![Cover image](https://www.thesslstore.com/blog/post-quantum-cryptography-data-security-in-a-post-quantum-world/)
+![Cover image](https://www.uctoday.com/wp-content/uploads/2024/06/What-is-Post-Quantum-Cryptography-The-Future-of-Encryption.jpeg)
 
 ## Quantum Computers Are Coming for Your Blockchain — Here's What Actually Works
 
